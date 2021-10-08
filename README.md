@@ -1,35 +1,33 @@
-# **_Kazim Kayhan_**
+[![Header](readme_header.png "Header")](https://kazim-mohammadi.netlify.app/)
 
-Software engineer & Php developer.
+# _Hello_, _Buddies_! <img src="wave.gif" width="30px">
 
-<img src="img/mk.jpg" alt="Kazim's photo"/>
+My name is __Kazim Kayhan__ and I'm a software engineer also php backend developer. I'm from Afghanistan, living in Kabul and currently working at ATSC.
 
----
+___
 
-⚡ Software engineering is my main major in Kabul University, faculty of computer science, and now I'm a junior software engineer there. In addition to my main major, I love web design and development. My web development journey begun about two years ago(late 2019). Right now I am using laravel php's framework for backend development, but I use vue.js and tailwind css or bootstrap for front-end development. I have done so many small and medium projects with Laravel, Php, Vue.js, Tailwind css, Html, css, Bootstrap and vanilla JavaScript.  I have worked with MySQL and PostgreSQL DBMSes.
+You can find me on <br/> [![Twitter][1.1]][1], on [![LinkedIn][3.2]][3], or visit my portfolio  at [__kazim-mohammadi.netlify.app__](https://kazim-mohammadi.netlify.app).
+
+___
+
+⚡ I'm a junior software engineer at Kabul University, faculty of computer science. Right now for web development I am using laravel php's framework for backend development, but I'm using vue.js and tailwind css or bootstrap for front-end development. I have done so many small and medium projects in Html, CSS, Bootstrap, vanilla JavaScript,Php, Laravel, Vue.js, and Tailwind css. I have used MySQL and PostgreSQL DBMSes.
 
 🌱 I intend to learn Nuxt.js and mobile app development with Laravel.
+___
 
+Contact me: <a href="mailto:mail4kazim.kayhan@gmail.com">mail4kazim.kayhan@gmail.com</a>
 ---
 
-### 📫 Contact me
+<!-- links to social media icons -->
 
-* My [linkedin profile](linkedin.com/in/kazim-kayhan)
-* My [personal portfolio](kazim-mohammadi.netlify.app)
-* My [twitter account](https://twitter.com/Kazim2kayhan)
-* My [telegram messenger](https://t.me/Kazim_Kayhan)
-* Email : <a href="mailto:mail4kazim.kayhan@gmail.com">mail4kazim.kayhan@gmail.com</a>
+<!-- icons with padding -->
 
-<!--
-**Kazim-Mohammadi/Kazim-Mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[1.1]: twitter.png (twitter icon with padding)
+[3.2]: linkedin.png (LinkedIn icon without padding)
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Kazim2kayhan
+[2]: https://github.com/kazim-kayhan
+[3]: https://www.linkedin.com/in/kazim-kayhan
