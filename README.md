@@ -6,7 +6,7 @@
 
 A software engineer & full-stack developer.
 
-Software Engineering is my major at Kabul University, and I'm a junior software engineer there. In addition to Software Engineering, I love web design and development. I use Laravel framework for backend development and React.js or vue.js for frontend development. For style purposes, I use Tailwindcss and Bootstrap. I have done many small and medium projects with React.js, Vue.js, PHP, Laravel, and vanilla JavaScript.
+Software Engineering is my major at Kabul University, and I'm a junior software engineer there. In addition to Software Engineering, I love web design and development. I use Node.js for backend development and React.js or vue.js for frontend development. For style purposes, I use Tailwindcss and Bootstrap. I have done many small and medium projects with React.js, Vue.js, Express.js, and Laravel.
 
 ---
 
