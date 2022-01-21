@@ -6,7 +6,7 @@
 
 A software engineer & full-stack developer.
 
-In addition to Software Engineering, I love web design and development. I use Node.js for backend development and React.js or vue.js for frontend development. For designing, I use Tailwindcss and Bootstrap.
+In addition to software engineering, I love web design and development. I use Node.js for backend development and React.js or vue.js for frontend development. I use Tailwindcss and Bootstrap to design sites.
 
 ---
 
