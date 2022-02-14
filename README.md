@@ -1,4 +1,4 @@
-[![Header](readme_header.png "Header")](https://www.linkedin.com/in/kazim-kayhan)
+<img src="coding.gif" width="100%">
 
 ## _Hello_ <img src="wave.gif" width="30px">
 
@@ -15,5 +15,3 @@ How to reach me:
 - Medium: https://kazim-kayhan.medium.com
 - Mail: <a href="mailto:mail4kazim.kayhan@gmail.com">mail4kazim.kayhan@gmail.com</a>
 - Showwcase: https://www.showwcase.com/kazim-kayhan
-
-<img src="coding.gif" width="100%">
