@@ -1,4 +1,4 @@
-<img src="coding.gif" width="100%" height="300px">
+<img src="coding.gif" width="100%" height="200px">
 
 ## _Hello_ <img src="wave.gif" width="30px">
 
