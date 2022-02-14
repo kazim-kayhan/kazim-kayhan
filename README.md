@@ -16,4 +16,4 @@ How to reach me:
 - Mail: <a href="mailto:mail4kazim.kayhan@gmail.com">mail4kazim.kayhan@gmail.com</a>
 - Showwcase: https://www.showwcase.com/kazim-kayhan
 
-[![Header](coding.gif"Footer")](https://www.linkedin.com/in/kazim-kayhan)
+<img src="coding.gif" width="100%">
