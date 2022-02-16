@@ -4,8 +4,6 @@
 
 # I'm **_Kazim Kayhan_**
 
-I love web design and development. I use Node.js for backend development and React.js for frontend development. I use Tailwindcss and Bootstrap to design sites.
-
 ---
 
 How to reach me:
