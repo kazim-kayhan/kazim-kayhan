@@ -3,9 +3,7 @@
 ## _Hello_ <img src="wave.gif" width="30px">
 
 # I'm **_Kazim Kayhan_**
-
 ---
-
 How to reach me:
 
 - Twitter: https://twitter.com/Kazim2kayhan
