@@ -4,7 +4,7 @@
 
 # I'm **_Kazim Kayhan_**
 
-How to reach me:
+How to contact me:
 
 - Twitter: https://twitter.com/Kazim2kayhan
 - LinkedIn: https://www.linkedin.com/in/kazim-kayhan
