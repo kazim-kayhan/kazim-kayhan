@@ -1,4 +1,4 @@
-## _Hi there!_ <img src="wave.gif" width="30px">
+# _Hi there!_ <img src="wave.gif" width="30px">
 ![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg)
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
