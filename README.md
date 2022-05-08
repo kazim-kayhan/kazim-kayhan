@@ -1,15 +1,14 @@
 ![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg)
-# _Hi there!_ <img src="wave.gif" width="30px">
-<p align="left">
+## _Hi there!_ <img src="wave.gif" width="30px">
+<p align="center">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20KAZIM%20KAYHAN&fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>  
 
----
-# Things I use on a daily basis
+### Things I use on a daily basis
 
-<p align="left">  
+<p align="right">  
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js&animation=spin&svgfill=15d8fe">  
 </a>
