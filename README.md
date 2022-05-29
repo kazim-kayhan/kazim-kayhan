@@ -3,8 +3,6 @@
 <img  src="https://readme-components.vercel.app/api?component=text&text=KAZIM%20KAYHAN&fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"> 
 </p>
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=dracula&custom_title=My%20Github%20Stats&hide_border=true&hide_title=true&hide_rank=true)](https://github.com/kazim-kayhan) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-kayhan&layout=compact&theme=dracula&hide_border=true)](https://github.com/kazim-kayhan)
-
 ![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg)
 
 ### Tools I use:
@@ -61,7 +59,7 @@
 </a>
 </p>
 
----
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=dracula&custom_title=My%20Github%20Stats&hide_border=true&hide_title=true&hide_rank=true)](https://github.com/kazim-kayhan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-kayhan&layout=compact&theme=dracula&hide_border=true)](https://github.com/kazim-kayhan)
 
 ## How to contact me:
 - Twitter: https://twitter.com/Kazim2kayhan
