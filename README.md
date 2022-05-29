@@ -68,3 +68,5 @@
 - Medium: https://kazim-kayhan.medium.com
 - Dev Profile: https://www.showwcase.com/kazim-kayhan
 - Email Address: <a href="mailto:mail4kazim.kayhan@gmail.com">mail4kazim.kayhan@gmail.com</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=dracula)](https://github.com/kazim-kayhan/github-readme-stats)
