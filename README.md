@@ -59,7 +59,7 @@
 </a>
 </p>
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats&hide_border=true&hide_title=true)](https://github.com/kazim-kayhan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-kayhan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kazim-kayhan)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats&hide_border=true&hide_title=true&hide_rank=true)](https://github.com/kazim-kayhan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-kayhan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kazim-kayhan)
 
 ## How to contact me:
 - Twitter: https://twitter.com/Kazim2kayhan
