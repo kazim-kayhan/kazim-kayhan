@@ -59,8 +59,6 @@
 
 ![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg)
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=kazim-kayhan&count_private=true&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats&hide_border=true&hide_title=true&hide_rank=true)](https://github.com/kazim-kayhan)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazim-kayhan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kazim-kayhan)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kazim-kayhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazim-kayhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kazim2kayhan)  
 
 ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  
