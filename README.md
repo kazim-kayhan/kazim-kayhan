@@ -57,8 +57,9 @@
 </a>
 </p>
 
-![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg)
+<!--  ![snake gif](https://github.com/kazim-kayhan/kazim-kayhan/blob/output/github-contribution-grid-snake.svg) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazim-kayhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kazim2kayhan)  
-
+  
+<a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/bbc53c2ebf58472eb037b98157d3253c.png?r=p8w" width="400" alt="Kayhan's Dev Card"/></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazim-kayhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kazim2kayhan)
 ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  
