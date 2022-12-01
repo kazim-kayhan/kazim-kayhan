@@ -57,7 +57,6 @@
 </a>
 </p>
 
- <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a>
+![Profile views](https://gpvc.arturio.dev/kazim-kayhan) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazim-kayhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kazim2kayhan)
-![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  
+ <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a>
