@@ -56,9 +56,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin">
 </a>
 </p>
-<!-- <p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Follow me on LinkedIn</a></p> -->
+<p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Follow me on LinkedIn</a></p>
 
 ![Profile views](https://gpvc.arturio.dev/kazim-kayhan) 
 ![Codewars Badge](https://www.codewars.com/users/kazim-kayhan/badges/small)
 
- <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a>
+<!--  <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a> -->
