@@ -56,14 +56,26 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin">
 </a>
 </p>
-<p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Let's connect on LinkedIn</a></p>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazim-kayhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazim-kayhan&hide_border=true&area=true&hide_title=true&theme=cobalt" height="150" alt="activity-graph graph"  />
+</div>
+
+<p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?r=c2h&type=wide" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
+
+
+
+
+
+<!-- <p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Let's connect on LinkedIn</a></p> -->
+
+<!-- ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  -->
 
 <!-- ![Codewars Badge](https://www.codewars.com/users/kazim-kayhan/badges/small) -->
 
 <!--  <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a> -->
 
-<p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?r=c2h&type=wide" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
-
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kazim-kayhan/count.svg?"  />
+</div>
