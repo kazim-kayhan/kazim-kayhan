@@ -58,8 +58,12 @@
 </p>
 <p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Let's connect on LinkedIn</a></p>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)   -->
+<!-- ![Profile views](https://gpvc.arturio.dev/kazim-kayhan)  
 
 <!-- ![Codewars Badge](https://www.codewars.com/users/kazim-kayhan/badges/small) -->
 
 <!--  <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a> -->
+
+<p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?r=c2h&type=wide" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
+
+
