@@ -62,7 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazim-kayhan&hide_border=true&area=true&hide_title=true&theme=cobalt" height="150" alt="activity-graph graph"  />
 </div>
 
-<p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?type=wide&r=rhi" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?type=wide&r=wmk" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
 
 
 
