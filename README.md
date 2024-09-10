@@ -65,7 +65,7 @@
 <p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?type=wide&r=wmk" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
 
 
-
+<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e077ebee0aa6b851745173?variant=dark" alt="roadmap.sh"/></a></p>
 
 
 <!-- <p align="center"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kazim-kayhan" target="_blank">Let's connect on LinkedIn</a></p> -->
