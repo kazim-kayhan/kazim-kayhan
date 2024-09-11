@@ -57,10 +57,10 @@
 </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazim-kayhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazim-kayhan&hide_border=true&area=true&hide_title=true&theme=cobalt" height="150" alt="activity-graph graph"  />
-</div>
+</div>  -->
 
 <p align="center"><a href="https://app.daily.dev/kazimkayhan"><img src="https://api.daily.dev/devcards/v2/dIP83Ddz6O0k58erdOIba.png?type=wide&r=wmk" width="652" alt="Kazim Kayhan's Dev Card"/></a></p>
 
